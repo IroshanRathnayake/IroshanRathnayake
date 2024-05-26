@@ -3,7 +3,8 @@
 <h1 align="center">Hi, I'm Iroshan Rathnayake<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 <center>
-<a href="https://git.io/typing-svg"><img align = "center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+passionate+Developer+and+Freelancer+from+Sri+Lanka" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&lines=A+passionate+Developer+and+Freelancer+from+Sri+Lanka)](https://git.io/typing-svg)
 
 </center>
 
