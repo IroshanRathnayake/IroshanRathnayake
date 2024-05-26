@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available [@Iroshan-Rathnayake](github.com/IroshanRathanayke)
 
-- 💬 Ask me about **Developments and Psychololy 😆**
+- 💬 Ask me about **Developments and Psychology 😆**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
