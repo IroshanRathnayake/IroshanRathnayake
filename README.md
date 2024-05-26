@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Backend Design**
 
-- 👨‍💻 All of my projects are available [@Iroshan-Rathnayake](github.com/IroshanRathanayke)
+- 👨‍💻 All of my projects are available [@Iroshan-Rathnayake](https://github.com/IroshanRathnayake?tab=repositories)
 
 - 💬 Ask me about **Developments and Psychology 😆**
 
