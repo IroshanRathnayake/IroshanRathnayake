@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iroshan Rathnayake</h1>
-<h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
+<h3 align="center">A passionate Developer from Sri Lanka</h3>
 
 - 🔭 I’m currently working on **React-Web-Application**
 
