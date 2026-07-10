@@ -55,9 +55,9 @@ LinkedIn.................: linkedin.com/in/iroshanrathnayake
 GitHub...................: github.com/IroshanRathnayake 
 Discord..................: iroshan.code
 
-Portfolio.Status.........: Under Continuous Development 
+Portfolio................: http://iroshan-portfolio.s3-website-us-east-1.amazonaws.com/
 Collaboration............: Open for Open Source & Engineering Projects 
-Availability.............: Software Engineering Opportunities
+Availability.............: R&D Opportunities
 ```
 
 <p align="center">
@@ -66,5 +66,8 @@ Availability.............: Software Engineering Opportunities
   </a>
   <a href="mailto:meet.iroshan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="http://iroshan-portfolio.s3-website-us-east-1.amazonaws.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
