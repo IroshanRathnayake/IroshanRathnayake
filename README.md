@@ -1,9 +1,5 @@
 <h1 align="center">Iroshan Rathnayake</h1>
 
-<table>
-<tr>
-<td valign="top">
-
 ```yaml
 iroshan@ekara
 —————————————————————————————————
@@ -30,9 +26,6 @@ LinkedIn..................: iroshanrathnayake
 GitHub....................: IroshanRathnayake
 Discord...................: iroshan.code
 ```
-</td>
-</tr>
-</table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iroshanrathnayake/">
