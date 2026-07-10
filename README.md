@@ -55,7 +55,6 @@ LinkedIn.................: linkedin.com/in/iroshanrathnayake
 GitHub...................: github.com/IroshanRathnayake 
 Discord..................: iroshan.code
 
-Portfolio................: http://iroshan-portfolio.s3-website-us-east-1.amazonaws.com/
 Collaboration............: Open for Open Source & Engineering Projects 
 Availability.............: R&D Opportunities
 ```
