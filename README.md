@@ -12,8 +12,8 @@ OS.Primary...............: Linux, Windows
 Uptime...................: 0000 years 
 Host.....................: EKARA DIGITAL 
 Kernel...................: Core Concepts 
-IDE......................: VS Code, IntelliJ IDEA, PyCharm T
-erminal.................: Bash, PowerShell, Zsh 
+IDE......................: VS Code, IntelliJ IDEA, PyCharm 
+Terminal.................: Bash, PowerShell, Zsh 
 Version.Control..........: Git, GitHub, GitHub Actions
 
 Languages.Programming....: TypeScript, C#, Java, Python, Rust 
@@ -22,7 +22,7 @@ Languages.Markup.........: HTML, CSS, JSON, YAML, XML, LaTeX, Markdown
 Languages.Spoken.........: English, Sinhala
 
 Architecture.............: Microservices, REST APIs, Event-Driven 
-Systems Patterns.................: Clean Architecture, DDD, SOLID, CQRS 
+Systems Patterns.........: Clean Architecture, DDD, SOLID, CQRS 
 Frontend.................: Angular, React, TypeScript, TailwindCSS 
 Backend..................: ASP.NET Core, Spring Boot, FastAPI, Node.js 
 Databases................: PostgreSQL, MySQL, MongoDB, DynamoDB 
