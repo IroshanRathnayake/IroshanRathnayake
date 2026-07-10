@@ -2,59 +2,98 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="46%">
 
 ```text
-                   `;~])\tjrrrrrjjt\1]~;`                   
-               `l[\xuvvuunnxxxxxxxnuuuvur\[l`               
-            'i(uXXzcvvuunxxrrjjjrxxnnuuvczXzn(i'            
-          "}uUUXzccvvvunuXYzC00QYcuxnnuvvcczXYYu}"          
-        ")XCUYXXzccvvucmMB@B@$$$@BWpUuuvvcczzXYUJX)"        
-      .]XLJUYYXXzccvvOW@@$$@$@$$$$$$@hvuvcczzXYYUJLX].      
-     :xQLJJUYYXXzccvq@@$B$@@$$$@$@$$$$kcvcczzXYYUUJLQx,     
-    iU0LCJJUYYXXzcvC%BBBB@$$$$$$$$$$$$$hvcczzXYYUUJCC0Yi    
-   +L0LLCJJUYYXXzcvmB@B@@@BWakabdaM%$$$McvczzXYYUUJCCL0L+   
-  !Q0QLLCJJUYYXXzcv0B@8pLYcunnunxnzLq8$ducczzXYYUUJCCLQ0L!  
- ^YO0QLLCJJUYYXXzcvY8BdnnnxrrrrrxuzYYb$mucczzXYYUUJCCLQQOY^ 
- /m00QLLCJJUYYXXzccc**YnunjfjjfffxvXUZBOucczzXYYUUJCCLQQ0m/ 
-;QO00QLLCJJUYYXXzccvbOuCQLQJr/\fJZOmwZ*JucczzXYYUUJCCLQQ0OQ;
-|mO00QLLCJJUYYXXzccuCOcLZbkwCjrLqbaqpwkYzcczzXYYUUJCCLQQ00m|
-YZO00QLLCJJUYYXXzcct|YuvvYYuvjjUzvYcULLjzcczzXYYUUJCCLQQ00ZX
-0ZO00QLLCJJUYYXXzccnfzx\((|\f\|nvt|\tYCvzcczzXYYUUJCCLQQ00O0
-ZOO00QLLCJJUYYXXzccvfLX/|||tf|1rux/fx00cccczzXYYUUJCCLQQ00OO
-0ZO00QLLCJJUYYXXzccvuUpnjffrLQXZOcvvUkUuvcczzXYYUUJCCLQQ00O0
-YZO00QLLCJJUYYXXzccvvvhpzu0CYvuzCOmLk*vuvcczzXYYUUJCCLQQ00ZX
-|mO00QLLCJJUYYXXzccvvuJ*mcnxxvzzzcXmWLnvvcczzXYYUUJCCLQQ00m|
-;QO00QLLCJJUYYXXzccvvnYChbvffucuxcO#pUuvvcczzXYYUUJCCLQQ0OQ;
- /m00QLLCJJUYYXXXzcvj/wvupawLUvYmha0ZpnvvcczzXYYUUJCCLQQ0m/ 
- ^YO0QLLCJJUUYXcunr\(/ZUjjXwaakhkOzzdQjrucczXXYYUUJCCLQQOY^ 
-  !Q0QLLLCUXvxxf|j/((\YOxjtfrxnuxruYwx/jjxxnvzYYUUJCCLQ0L!  
-   +LOLXuxjff\/xf\(((/rQvxrttffffnuUc\/ffjxxfjxncYJCLL0L+   
-    iuf\///jjf(/n/|tuutucnufft/\jcrn/\XXujrxfjfffjncU0Yi    
-     `]\j/|/xf/(trt/fjt/tjnnuxjxxrjftrxxxjffffftjfffj\:     
-      .l|rt|jj//|/f/\\///|/trYYnfjftttttt/tfffttjjj\i       
-        ^?//trt//\/t//////\\\ft///////ttffttfjttf\-^        
-          ^~1jjt////////////tt(t///tttttfffffjr|+^          
-            'I[|/tttt///////jf/fttttttttffjj\]I'            
-               ':+}(/tttt//tjf/ttffffff/|}_;`               
-                   ',l_]{)|tft/t\|(1[_l,`                   
+                                           =
+                         -       =..          .::-=
+                   -  :.            ..                .:=
+                   ..  .          .                       .
+                ::.          .        ..                    ..-
+             -.     ..      ..                                  .
+            .....   .                 .                           -
+          .  .. .. ..             .         .                     .
+        :.   ..     ..       ...           ..       .              .
+       :... ...     . .     .              ..                       .
+      :....  .      . .    .               ..                         .
+     -.....  ..     . .    .   .   ..     . .         .               .:
+     :.....    ... ...   .     .          .                             .
+     ... ....  . .                                         .            .:
+    :..... ........                  ....  ...                          .:
+    :....    ....  .             .----==-::-=====--:.                    :
+    :...            .       .:--==++++****+***##%%%%#*++=::.
+    : ..    . .....:::--=++##%%%%@@@@@@@%%%%@@@@@@@@@@%%%#*+-::.
+    : ...   ....:-=*#%@@$$$$$$$$$$$$$$$$$$$$$$$$$$$@@@@@%%%%#++=:       :
+     .  ..    .-*%@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$BB$$$$@@@%%%%%%#+:
+     .  ...  .=%$$$$$$$$$$$BBBBBBBBBBBBBBBBBBBBBBBB$$$@@@%%%%%%%#+.
+     : ......-*@$$$$$$$$$$$$BBBBBBBBBBBBBBBBBBB$$$$$$$@@@%%%%%%%#+:
+      ......:-*@$$$$$$$$$$$$$$$$$$$BBBBBBBBB$$$$$$$@@@@@%%%%%%%%#+:.
+      .....::=#@$$$$$$$@$$$$$$$$$$$$$$BBBBBB$$$$$@@@@@@%%%%%%%%%#*-..
+      .... -=*@$$$$$@@@@@@$$$$$$$$$$$$BBBBBBBB$$$$$$$@@@%%%%%%%###+:.
+      ...:-=#$$$$$@@@$$$$$$BBBBBBBBBBBBBBBB&BB&&&BBB$$$@@@@%%%#####=.. .
+      -.:-=#$$$$@$$$$$$BBB&&&&&&&&&&&&&&&&&&W&&&&&&&BBBB$$@@@%%####*:. -
+       .:-#$$$$$$$@#*#%@@$$BBBB&&&&&&&&&&&WWW&&&BB$$@@%%%#**+*#%##*#=. =
+       .:-%$$$@%#+=====- - :::-=*@$BB&&&&&&&BB@#=:......: ::-:-=+***=.
+       -.-#$$@#+++****#*+=--:...:=#%$BBBBBB$@%*=:.::-=++***+++--::+*=..
+        ::*$$@%%@@@@%%###***+++*###%@$BBB$$%#*****+++++++++*#%#**==*= =
+   @@@%  :+@@$$@@@*==-=.-::.=*=+#%@@@$B&&B$%##%#+=**  :   +:.-+*****-.-*%%##
+  @$B&B@%+=@@$@%%*=-=@&+::--@W$#+#@%@$B&&B$%###++%&W+:.:=$B*::-+****=-%$B$$%%
+ @$&&WW&W$+@$$@@%%%%%%@$#==#$@%%%%@%@$$BBB$%##*#%%%@@#**%@%#######**=#$B&$B@%
+ @$&&WWWB@#@$$$$$BB$$@@@@@@%%%@$$$@$$$B&&&B$@%%@$$$@@@$@@@@@@@@@%%#*+*@B&B$@%
+ @$B&WW&@%#@$$$BBBBBBBBBBBBBBBBBBBBBBB&&&&&B@@@@@$BBBBBBBBBBBB$$@%##+%$$BB@%%
+  @$&$BB&&*@$$BB&&&&&&WWW&&&&&&&&BBBBB&&W&&B$@@@$$BB&&&&&&&&&BBB$@%#+$&$@$@%
+  @$&$%$WW*#$BB&&&WWWWWWW&WWWWW&BBBBB&&W&&&BB@@@@$BB&&&&&&&&&&BB$@%*+$$#%$%%
+   @BB$$B$*-$BB&&&WWWWWWWWWWWW&&B$$$&&WWWW&&B$@%%%$B&&&&&&&&&BBB$@%+:#@@@%%
+    $$$WWB*.#BBB&&&&&WWWWWWWW&&B$BBB&WWWWWWW&B$$B$@B&&&&&&&&BBB$@%%-=@$@%%%
+     BBBBB%:=@$BBB&&&&&&&&&&&&B$&WWWWWWWWWWWW&B&&&$@BB&&&BBBB$$@%%#.=%@@@%
+      B&BB$=.#$$BBBB&&&&&&&&&&B$B&B@%%BWWW&&$*+#@$@@$$BBBBB$$$@@%#+ *$@@@
+        $BB*.=@$$BBBBBBB&&&&&&&B$@#*%%@B$$$@%####%@$$$$$$$$$@@%%##-.
+            .:*@$$$BBBBBBBB&&&&&B$%*+*###%%*++==*%@$BBB$$$@@@%%#*+.:
+            :.=#%@$$$$BBBBBBB$$@#*+-:--=*%#+=--:-+**#%%@@@@%%%#*=-.
+             .-++*%@$$$BB$#*+*%@$@@@$$$$$BB$@@@%%@%%#*=-+#%%%#+=-.
+             .:-==+#@$$B$*=**%@@%###%%%%%@%######***#*++==#%#+-::..
+              . --=+*@$$$%%%+-=+*%$$$BB$$$$$$B$$@#+=--+###%#*=:..
+              -.:--==#@$$$@%@@@@@$$B&WWWW&WWW&B$@%%%%@@%%%%*+-::.:
+               :.-=*+*%@$$$$BB&BBB$$$$$BB$$$@@%%%@@@$@@@%%*+=-:..
+               #-:+++**#%$$BBB&&BBB@%*++=====+*#@$$$$@@%%#+=-:..
 ```
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="54%">
 
 ```yaml
-iroshan@github
-———————————————————————————
-Role........: Software Engineer
-Location....: Sri Lanka
-Stack.......: .NET · Angular · AWS · Docker
-Languages...: TypeScript, C#, Python, Java
-Focus.......: Cloud-Native & Distributed Systems
-———————————————————————————
-Email.......: meet.iroshan@gmail.com
-LinkedIn....: iroshanrathnayake
-GitHub......: IroshanRathnayake
+iroshan@ekara
+—————————————————————————————————
+OS.....................: Linux, Windows
+Uptime.................: 22 years, 10 months        
+Host....................: EKARA DIGITAL
+Kernel..................: ASP.NET Core 
+IDE.....................: VS Code, IDEA
+
+Languages.Programming...: TypeScript, C#, Python, Java, Rust
+Languages.Computer......: HTML, CSS, JSON, YAML, LaTeX
+Languages.Real..........: English, Sinhala
+
+Hobbies.Software........: Open Source, System Design
+Hobbies.Hardware........: Overclocking, Undervolting
+```
+
+```yaml
+Contact
+—————————————————————————————————
+Email.Personal..........: meet.iroshan@gmail.com
+Email.Work...............: iroshan@ekara.nz
+LinkedIn..................: iroshanrathnayake
+GitHub....................: IroshanRathnayake
+Discord...................: iroshan.code
+```
+
+```yaml
+GitHub Stats
+—————————————————————————————————
+Repos.............: 🔧      Stars........: 🔧
+Commits...........: 🔧      Followers....: 🔧
+Lines of Code.....: 🔧 (+🔧 -- 🔧)
 ```
 
 </td>
