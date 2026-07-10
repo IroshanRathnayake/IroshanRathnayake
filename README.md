@@ -1,30 +1,66 @@
 <h1 align="center">Iroshan Rathnayake</h1>
+<h2 align="center">Engineering Solutions Innovator</h2>
+
+![Github Banner](https://github.com/IroshanRathnayake/IroshanRathnayake/blob/main/banner.png)
 
 ```yaml
-iroshan@ekara
-—————————————————————————————————
-OS.....................: Linux, Windows
-Uptime.................: 22 years, 10 months        
-Host....................: EKARA DIGITAL
-Kernel..................: ASP.NET Core 
-IDE.....................: VS Code, IDEA
+iroshan@ekara —————————————————————————————————
+Profile..................: Engineering Solutions Innovator 
+Current.Role.............: Software Engineer @ EKARA 
+Organization.............: EKARA DIGITAL 
+Experience.Level.........: Full-Stack Engineering | Cloud Solutions 
+Mission..................: Transforming Ideas into Scalable Engineering Solutions
 
-Languages.Programming...: TypeScript, C#, Python, Java, Rust
-Languages.Computer......: HTML, CSS, JSON, YAML, LaTeX
-Languages.Real..........: English, Sinhala
+OS.Primary...............: Linux, Windows 
+Uptime...................: 0000 years 
+Host.....................: EKARA DIGITAL 
+Kernel...................: Core Concepts 
+IDE......................: VS Code, IntelliJ IDEA, PyCharm T
+erminal.................: Bash, PowerShell, Zsh 
+Version.Control..........: Git, GitHub, GitHub Actions
 
-Hobbies.Software........: Open Source, System Design
-Hobbies.Hardware........: Overclocking, Undervolting
+Languages.Programming....: TypeScript, C#, Java, Python, Rust 
+Languages.Scripting......: JavaScript, Bash 
+Languages.Markup.........: HTML, CSS, JSON, YAML, XML, LaTeX, Markdown 
+Languages.Spoken.........: English, Sinhala
+
+Architecture.............: Microservices, REST APIs, Event-Driven 
+Systems Patterns.................: Clean Architecture, DDD, SOLID, CQRS 
+Frontend.................: Angular, React, TypeScript, TailwindCSS 
+Backend..................: ASP.NET Core, Spring Boot, FastAPI, Node.js 
+Databases................: PostgreSQL, MySQL, MongoDB, DynamoDB 
+Cloud....................: AWS, S3, Cognito, Cloud-Native Solutions 
+DevOps...................: Docker, CI/CD, Linux Administration 
+Security.................: JWT, OAuth2, RBAC, API Security 
+AI.MachineLearning.......: Scikit-Learn, Predictive Models, AI APIs
+
+Engineering.Focus........: Scalable Systems Design 
+Engineering.Interests....: Distributed Systems, SaaS Platforms 
+Engineering.Values.......: Performance, Maintainability, Reliability 
+Open.Source..............: Active Contributor & Library Author 
+Research.Areas...........: Artificial Intelligence, Cloud Computing
+
+Current.Building.........: Enterprise Applications 
+Current.Exploring........: System Architecture, AI Engineering, Rust 
+Current.Learning.........: Distributed Computing, Advanced Cloud Patterns
+
+Hobbies.Software.........: Open Source, System Design, Reverse Engineering 
+Hobbies.Hardware.........: Overclocking, Undervolting, Homelab Projects 
+Hobbies.Personal.........: Technology Research, Engineering Innovation
 ```
 
 ```yaml
-Contact
-—————————————————————————————————
+Contact —————————————————————————————————
 Email.Personal..........: meet.iroshan@gmail.com
 Email.Work...............: iroshan@ekara.nz
-LinkedIn..................: iroshanrathnayake
-GitHub....................: IroshanRathnayake
-Discord...................: iroshan.code
+
+LinkedIn.................: linkedin.com/in/iroshanrathnayake 
+GitHub...................: github.com/IroshanRathnayake 
+Discord..................: iroshan.code
+
+Portfolio.Status.........: Under Continuous Development 
+Collaboration............: Open for Open Source & Engineering Projects 
+Availability.............: Software Engineering Opportunities
 ```
 
 <p align="center">
