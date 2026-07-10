@@ -1,6 +1,3 @@
-<h1 align="center">Iroshan Rathnayake</h1>
-<h2 align="center">Engineering Solutions Innovator</h2>
-
 ![Github Banner](https://github.com/IroshanRathnayake/IroshanRathnayake/blob/main/banner.png)
 
 ```yaml
